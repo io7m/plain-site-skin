@@ -178,8 +178,8 @@ under the License.
     #if ( $item.collapse == false )
       #set ( $collapse = "expanded" )
     #else
-      ## By default collapsed
-      #set ( $collapse = "collapsed" )
+      ## By default expanded
+      #set ( $collapse = "expanded" )
     #end
 ##
     #set ( $display = false )
