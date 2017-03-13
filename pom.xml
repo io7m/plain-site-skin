@@ -7,7 +7,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.io7m.plain-site-skin</groupId>
   <artifactId>plain-site-skin</artifactId>
-  <version>0.1.2-SNAPSHOT</version>
+  <version>0.1.2</version>
 
   <packaging>jar</packaging>
   <description>Plain site skin</description>
