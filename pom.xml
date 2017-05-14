@@ -21,7 +21,7 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-    <skinColumnWidth>20em</skinColumnWidth>
+    <skinColumnWidth>22em</skinColumnWidth>
   </properties>
 
   <dependencies>
